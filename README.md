@@ -60,3 +60,8 @@ Our end goal is to provide users with a reliable and accurate tool that will all
  - The PDF version of the PowerPoint presentation.
   - The code in Jupyter notebook format.
   - The Django or Flask API implementation.
+
+## Conclusion
+
+Thus, we have seen, thanks to numerous studies, that the popularity of music varies according to precise criteria. Now, thanks to an accurate predictive model, we can predict whether music will be popular or not.
+
